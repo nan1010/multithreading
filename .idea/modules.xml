@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/communicating/communicating.iml" filepath="$PROJECT_DIR$/communicating/communicating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fairandunfair/fairandunfair.iml" filepath="$PROJECT_DIR$/fairandunfair/fairandunfair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/littletest/littletest.iml" filepath="$PROJECT_DIR$/littletest/littletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading.iml" filepath="$PROJECT_DIR$/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reetrantreadwritelock/reetrantreadwritelock.iml" filepath="$PROJECT_DIR$/reetrantreadwritelock/reetrantreadwritelock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized(X)/synchronized(X).iml" filepath="$PROJECT_DIR$/synchronized(X)/synchronized(X).iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized_synchronized(this)/synchronized_synchronized(this).iml" filepath="$PROJECT_DIR$/synchronized_synchronized(this)/synchronized_synchronized(this).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticket/ticket.iml" filepath="$PROJECT_DIR$/ticket/ticket.iml" />
+    </modules>
+  </component>
+</project>
